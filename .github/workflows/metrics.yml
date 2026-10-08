@@ -18,12 +18,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          base: ""
+          base: repositories
           config_timezone: Europe/Tallinn
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_lines: yes
           plugin_lines_sections: base, repositories
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
