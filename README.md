@@ -1,48 +1,45 @@
-﻿### Hi there 👋 My name is Daniel! 😄
-<a href="https://www.linkedin.com/in/daniel-rak-a7b618189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<h1 align="center">
+  Hi, I'm Daniel 👋
+  <a href="https://www.linkedin.com/in/daniel-rak-a7b618189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</h1>
 
-<!--
-**danielrak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-stack+engineer;Backend%3A+Java+%2B+Spring;Frontend%3A+Angular+%2B+React" alt="Full-stack engineer: Java + Spring, Angular + React" />
+</p>
 
-Here are some ideas to get you started:
+- 💼 **Currently:** Software developer at Concise Systems
+- 🌱 **Learning:** Claude
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-<!-- #### Here you can find my study projects and exercises: -->
+### 🔨 Recently built
 
-<!-- ##### Topics:
+<a href="https://github.com/danielrak1/tuum-banking-test-assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielrak1&repo=tuum-banking-test-assignment&theme=tokyonight&description_lines_count=2" alt="tuum-banking-test-assignment"/></a>
 
-   - [Java Fundamentals (JVM, data types, condition operators, loops, arrays)](https://github.com/Makigen/job4j_elementary)
-   - [OOP, Exceptions, Collections Framework, Sorting, Iterators, Design Patterns & Good Practices](https://github.com/Makigen/job4j_tracker)
-   - [Functional Programming (Stream API](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/stream) [Lambda)](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/lambda)
-   - [Algorithms and data structures](https://github.com/Makigen/job4j_design)
-   - [SQL, PostgreSQL, JDBC, IO, Sockets, GC, OOD, SOLID and TDD](https://github.com/Makigen/job4j_design)
- 
-##### Projects:
+Core banking service: accounts with per-currency balances, race-free balance updates, a transactional outbox to RabbitMQ, Testcontainers integration tests, CI-gated coverage, and ADRs for every key decision.
 
-   - [Console CRUD app using JDBC](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker)
-   - [Console chat app](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/ConsoleChat.java)
-   - [Comand line file searcher using maven packaging and command line arguments](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/search/Find.java)
-   - [Job-offers aggregator (HTML Parser using Jsoup, JDBC, Quartz)](https://github.com/Makigen/job4j_grabber)  -->
+### 🧰 Stack
 
-##### Tools used:
- - Maven
- - jUnit
- - JDBC
- - PostgreSQL
- - Git
- - IntelliJ Idea
- - Сheckstyle, JaCoCo
- - Travic CI
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq,docker,angular,react,ts,gradle,githubactions,idea&perline=11" alt="Java, Spring, PostgreSQL, RabbitMQ, Docker, Angular, React, TypeScript, Gradle, GitHub Actions, IntelliJ IDEA"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrak1&layout=compact&theme=tokyonight)
+Plus MyBatis · Flyway · Testcontainers · JUnit 5
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrak1&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
+### 📊 Stats
 
+<p>
+  <img align="top" height="165" src="https://github-readme-stats.vercel.app/api?username=danielrak1&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars,issues,contribs" alt="GitHub stats"/>
+  <img align="top" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrak1&layout=compact&theme=tokyonight&hide=html" alt="Top languages"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/danielrak1/danielrak1/main/metrics.svg" alt="Repositories, lines of code and coding habits"/>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=danielrak1&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=8&title=Experience,Commits,PullRequest,Repositories,Followers" alt="GitHub trophies"/>
+
+### 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/danielrak1/danielrak1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielrak1/danielrak1/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/danielrak1/danielrak1/output/github-contribution-grid-snake.svg"/>
+</picture>
