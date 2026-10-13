@@ -8,7 +8,7 @@
 </p>
 
 - 💼 **Currently:** Software developer at Concise Systems
-- 🌱 **Learning:** Claude
+- 🌱 **Learning:** Currently exploring Claude
 
 ### 🔨 Recently built
 
@@ -18,9 +18,31 @@ Core banking service: accounts with per-currency balances, race-free balance upd
 
 ### 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq,docker,angular,react,ts,gradle,githubactions,idea&perline=11" alt="Java, Spring, PostgreSQL, RabbitMQ, Docker, Angular, React, TypeScript, Gradle, GitHub Actions, IntelliJ IDEA"/>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java" width="24"/></td><td><b>Java</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="24"/></td><td><b>Spring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="24"/></td><td><b>PostgreSQL</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq" width="24"/></td><td><b>RabbitMQ</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="24"/></td><td><b>Docker</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular" width="24"/></td><td><b>Angular</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" width="24"/></td><td><b>React</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" width="24"/></td><td><b>TypeScript</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gradle" width="24"/></td><td><b>Gradle</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=githubactions" width="24"/></td><td><b>GitHub Actions</b></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" width="24"/></td><td><b>IntelliJ IDEA</b></td>
+    <td></td><td></td>
+  </tr>
+</table>
 
-Plus MyBatis · Flyway · Testcontainers · JUnit 5
+*Plus: MyBatis · Flyway · Testcontainers · JUnit 5*
+
 
 ### 📊 Stats
 
@@ -29,12 +51,12 @@ Plus MyBatis · Flyway · Testcontainers · JUnit 5
   <img align="top" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrak1&layout=compact&theme=tokyonight&hide=html" alt="Top languages"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/danielrak1/danielrak1/main/metrics.svg" alt="Repositories, lines of code and coding habits"/>
+<!-- <img src="https://raw.githubusercontent.com/danielrak1/danielrak1/main/metrics.svg" alt="Repositories, lines of code and coding habits"/>
 
 ### 🏆 Trophies
 
 <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=danielrak1&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=8&title=Experience,Commits,PullRequest,Repositories,Followers" alt="GitHub trophies"/>
-
+ -->
 ### 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/danielrak1/danielrak1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
